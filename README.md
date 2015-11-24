@@ -63,7 +63,7 @@ The current emitters and the associated repositories are:
 - [syslog](https://github.com/ThatLarryPearson/exhaust-emitter-syslog)
 - [CLI Logging](https://github.com/ThatLarryPearson/exhaust-emitter-cli-logging)
 - [Process Accounting](https://github.com/ThatLarryPearson/exhaust-emitter-process-accounting)
-- [Performance Metrics](https://ThatLarryPearson/exhaust-emitter-performance-metrics)
+- [Performance Metrics](https://github.com/ThatLarryPearson/exhaust-emitter-performance-metrics)
 - Network Monitoring
 
 ## Tools
