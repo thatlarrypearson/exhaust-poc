@@ -62,14 +62,13 @@ Emitters push data into the collector.  That is, the emitters publish messages t
 The current emitters and the associated repositories are:
 - [syslog](https://github.com/ThatLarryPearson/exhaust-emitter-syslog)
 - [CLI Logging](https://github.com/ThatLarryPearson/exhaust-emitter-cli-logging)
-- [Process Accounting](https://github.com/ThatLarryPearson/exhaust-process-accounting)
-- [Performance Metrics](https://ThatLarryPearson/exhaust-performance-metrics)
-- [Network Monitoring](https://ThatLarryPearson/exhaust-network-monitoring)
+- [Process Accounting](https://github.com/ThatLarryPearson/exhaust-emitter-process-accounting)
+- [Performance Metrics](https://ThatLarryPearson/exhaust-emitter-performance-metrics)
+- Network Monitoring
 
 ## Tools
 
 We all stand on the shoulders of giants.  My work wouldn't be possible without the gracious contributions made by teams providing the following tools (this list is woefully inadequate):
-- Mac Windows Git GUI [GitHub Desktop](https://desktop.github.com/)
 - Python IDE [PyCharm Community Edition](https://www.jetbrains.com/pycharm)
 
 ## Licensing
